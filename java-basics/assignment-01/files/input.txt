@@ -1,0 +1,9 @@
+This is a decoy file, named deceptively similar to the required naming
+convention of:
+
+	in[0-9]+.txt
+
+to see if our code will (correctly) omit it or not.
+
+Because attempting to break one's own code is the least that any
+self-respecting programmer must do.
